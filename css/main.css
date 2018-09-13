@@ -482,11 +482,11 @@ footer .theme-by {
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
-  font-size: 20px;
+  font-size: 25px;
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 16px;
+  font-size: 20px;
   line-height: 1.1;
   display: block;
   font-family: 'Fira Sans', 'Fira Sans', 'Fira Sans', 'Fira Sans', sans-serif;

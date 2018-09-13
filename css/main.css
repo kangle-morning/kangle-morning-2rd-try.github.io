@@ -9,7 +9,7 @@ published: true
 
 body {
   font-family: 'Fira Sans', 'Fira Sans', serif;
-  font-size: 18px;
+  font-size: 16px;
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
@@ -120,7 +120,7 @@ img {
 
 .navbar-custom .nav li a {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 1px;
 }
 
@@ -307,10 +307,10 @@ footer .theme-by {
     padding: 50px 0;
   }
   footer .footer-links {
-    font-size: 18px;
+    font-size: 14px;
   }
   footer .copyright {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 
@@ -343,7 +343,7 @@ footer .theme-by {
 }
 
 .post-preview .post-title {
-  font-size: 30px;
+  font-size: 25px;
   margin-top: 0;
 }
 .post-preview .post-subtitle {
@@ -354,7 +354,7 @@ footer .theme-by {
 .post-preview .post-meta,
 .post-heading .post-meta {
   color: #808080;
-  font-size: 18px;
+  font-size: 14px;
   font-style: italic;
   margin: 0 0 10px;
 }
@@ -389,7 +389,7 @@ footer .theme-by {
 
 @media only screen and (min-width: 768px) {
   .post-preview .post-title {
-    font-size: 30px;
+    font-size: 25px;
   }
 }
 
@@ -398,7 +398,7 @@ footer .theme-by {
 .blog-tags {
   font-family: 'Fira Sans', 'Fira Sans', 'Fira Sans', 'Fira Sans', sans-serif;
   color: #999;
-  font-size: 15px;
+  font-size: 14px;
   margin-bottom: 30px;
 }
 
@@ -478,15 +478,15 @@ footer .theme-by {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 40px;
+  font-size: 35px;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
-  font-size: 30px;
+  font-size: 25px;
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 25px;
+  font-size: 20px;
   line-height: 1.1;
   display: block;
   font-family: 'Fira Sans', 'Fira Sans', 'Fira Sans', 'Fira Sans', sans-serif;
@@ -494,7 +494,7 @@ footer .theme-by {
   margin: 10px 0 0;
 }
 .intro-header .post-heading .post-subheading {
-  margin-bottom: 20px;
+  margin-bottom: 14px;
 }
 .intro-header.big-img .page-heading .page-subheading,
 .intro-header.big-img .post-heading .post-subheading {
@@ -512,7 +512,7 @@ footer .theme-by {
   background: rgba(30, 30, 30, 0.6);
   position: absolute;
   padding: 5px 10px;
-  font-size: 11px;
+  font-size: 10px;
   color: #EEE;
   font-family: 'Fira Sans', 'Fira Sans', 'Fira Sans', 'Fira Sans', sans-serif;
   right: 0;
@@ -531,10 +531,10 @@ footer .theme-by {
     padding: 150px 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 80px;
+    font-size: 60px;
   }
   .intro-header .post-heading h1 {
-    font-size: 50px;
+    font-size: 35px;
   }
   .intro-header.big-img .img-desc {
     font-size: 14px;

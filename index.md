@@ -6,6 +6,8 @@ subtitle: 'Ph.D. Candidate in Social Sciences, California Institute of Technolog
 use-site-title: true
 bigimg: /img/bg-cropped.jpg
 ---
-<img style="float:right" src="./img/profile-sysilviakim-raw-resized.jpg" />
+
+<IMG CLASS="TextWrap" SRC="./img/profile-sysilviakim-raw-resized.jpg" >
+# <img style="float:right" src="./img/profile-sysilviakim-raw-resized.jpg" />
 
 Welcome! I am a Ph.D. candidate in Social Sciences at California Institute of Technology, Department of Humanities and Social Sciences. This website is still in progress---stay tuned!

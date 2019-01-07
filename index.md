@@ -4,7 +4,6 @@ title: Seo-young Silvia Kim
 published: true
 subtitle: 'Ph.D. Candidate in Social Sciences, California Institute of Technology'
 use-site-title: true
-bigimg: /img/bg-cropped.jpg
 ---
 
 <img align="right" width="350" style = "margin: 0px 0px 00px 15px;" src="./img/profile-19Dec01-cropped.jpg" id = "profile">

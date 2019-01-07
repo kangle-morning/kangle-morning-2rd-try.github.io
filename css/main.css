@@ -9,7 +9,7 @@ published: true
 
 body {
   font-family: 'Open Sans';
-  font-size: 16px;
+  font-size: 14px;
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
@@ -389,7 +389,7 @@ footer .theme-by {
 
 @media only screen and (min-width: 768px) {
   .post-preview .post-title {
-    font-size: 25px;
+    font-size: 20px;
   }
 }
 
@@ -478,15 +478,15 @@ footer .theme-by {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 25px;
+  font-size: 20px;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
-  font-size: 20px;
+  font-size: 16px;
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans';
@@ -531,10 +531,10 @@ footer .theme-by {
     padding: 150px 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 60px;
+    font-size: 40px;
   }
   .intro-header .post-heading h1 {
-    font-size: 35px;
+    font-size: 25px;
   }
   .intro-header.big-img .img-desc {
     font-size: 14px;
@@ -775,7 +775,7 @@ td.gutter {
 }
 
 #full-tags-list .tag-entry a {
-  font-size: 20px;
+  font-size: 16px;
 }
 
 #full-tags-list .tag-entry .entry-date {

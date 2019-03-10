@@ -253,12 +253,9 @@ img {
     display: block;
   }
   .img {
-    float: none;
-    margin-right: 1px;
-    margin-left: 1px;
-    margin-bottom: 10px;
-    width: 100%;
-    TEXT-ALIGN: CENTER;
+    float:none;
+    display:table;
+    margin: 0 auto;
   }
 }
 @media only screen and (min-width: 768px) {

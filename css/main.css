@@ -47,6 +47,13 @@ hr.small {
   border-color: inherit;
   border-radius: 3px;
 }
+.img{
+  float: right;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  display: inline;
+} 
 
 .main-content {
   padding-top: 80px;

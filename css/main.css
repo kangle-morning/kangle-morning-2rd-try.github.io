@@ -253,7 +253,9 @@ img {
     display: block;
   }
   .img {
-    margin: 0;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
     width: 100%;
     TEXT-ALIGN: CENTER;
   }

@@ -437,6 +437,12 @@ footer .theme-by {
     margin-top: 0;
     float: left;
   }
+  
+  .img {
+    margin: 0;
+    width: 100%;
+    TEXT-ALIGN: CENTER;
+  }
 }
 /* --- Post and page headers --- */
 

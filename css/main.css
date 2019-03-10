@@ -252,6 +252,11 @@ img {
   .navbar-custom .nav .navlinks-container.show-children .navlinks-children {
     display: block;
   }
+  .img {
+    margin: 0;
+    width: 100%;
+    TEXT-ALIGN: CENTER;
+  }
 }
 @media only screen and (min-width: 768px) {
   .navbar-custom .nav .navlinks-container {
@@ -443,12 +448,6 @@ footer .theme-by {
     text-align: center;
     margin-top: 0;
     float: left;
-  }
-  
-  .img {
-    margin: 0;
-    width: 100%;
-    TEXT-ALIGN: CENTER;
   }
 }
 /* --- Post and page headers --- */

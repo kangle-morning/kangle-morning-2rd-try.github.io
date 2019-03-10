@@ -6,7 +6,7 @@ subtitle: 'Ph.D. Candidate in Social Sciences, California Institute of Technolog
 use-site-title: true
 ---
 
-<div class="img"
+<div class="img">
   <img width="300" style = "margin: 0px 0px 0px 45px;" src="./img/profile-19Dec01-cropped.jpg" id = "profile">
 </div>
 

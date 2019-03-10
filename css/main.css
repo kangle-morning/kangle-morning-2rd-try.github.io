@@ -710,6 +710,7 @@ td.gutter {
     display: block;
   }
   .img {
+    padding: 0;
     float:none;
     display:table;
     margin: 0 auto;
@@ -731,6 +732,7 @@ td.gutter {
     float: left;
   }
   .img {
+    padding: 0;
     float:none;
     display:table;
     margin: 0 auto;
@@ -752,6 +754,7 @@ td.gutter {
     margin-bottom: 0;
   }
   .img {
+    padding: 0;
     float:none;
     display:table;
     margin: 0 auto;
@@ -762,6 +765,7 @@ td.gutter {
     height: 200px;
   }
   .img {
+    padding: 0;
     float:none;
     display:table;
     margin: 0 auto;

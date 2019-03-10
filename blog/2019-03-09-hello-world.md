@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
-title: Hello World
+published: true
+title: Hello World 2
 ---
 ## A New Post
 
-Test
+Test 2

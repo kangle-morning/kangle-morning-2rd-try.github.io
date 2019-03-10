@@ -254,8 +254,8 @@ img {
   }
   .img {
     float: none;
-    margin-right: 10px;
-    margin-left: 10px;
+    margin-right: 1px;
+    margin-left: 1px;
     margin-bottom: 10px;
     width: 100%;
     TEXT-ALIGN: CENTER;

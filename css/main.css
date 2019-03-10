@@ -252,21 +252,6 @@ img {
   .navbar-custom .nav .navlinks-container.show-children .navlinks-children {
     display: block;
   }
-  .img {
-    float:none;
-    display:table;
-    margin: 0 auto;
-  }
-}
-
-@media (min-width: 320px) and (max-width: 767px) {
-  .img{
-    /* float: none; */
-    /* display: table; */
-    margin: 0;
-    width: 100%;
-    TEXT-ALIGN: CENTER;
-  }
 }
 
 @media only screen and (min-width: 768px) {
@@ -615,6 +600,11 @@ footer .theme-by {
   #header-gh-btns > iframe {
     display: block;
     margin-bottom: 5px;
+  }
+  .img {
+    float:none;
+    display:table;
+    margin: 0 auto;
   }
 }
 

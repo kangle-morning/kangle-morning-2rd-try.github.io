@@ -1,22 +1,6 @@
-# --- General options --- #
-
-# url is the full website URL
-# baseurl is the website's URL without the hostname
-
-# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://sysilviakim.github.io"
 baseurl: ""
-
-# If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
-
-# Of course don't forget to change the username and projectname to YOUR username and project
-
-# Name of website
 title: Seo-young Silvia Kim
-
-# Short description of your site
 description: Ph.D. Candidate in Social Sciences, Caltech
 
 # --- Navigation bar options --- #
@@ -26,12 +10,8 @@ navbar-links:
   About: "index"
   CV: "cv"
   Research: "research"
-  # Programming: "programming"
-#  Resources:
-#    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-#    - Learn markdown: "http://www.markdowntutorial.com/"
-#    - GitHub Pages: "https://pages.github.com/"
-#  Author's home: "http://deanattali.com"
+  Blog: "blog"
+  ## Programming: "programming"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -70,27 +50,13 @@ author:
   name: Seo-young Silvia Kim
 
 # Select your active Social Network Links.
-# Uncomment the links you want to show in the footer and add your information to each link.
-# You can reorder the items to define the link order.
-# If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
   email: "sskim@caltech.edu"
   github: sysilviakim
   twitter: sysilviakim
-#  reddit: yourname
-#  google-plus: +DeanAttali
   linkedin: sysilviakim
-#  xing: yourname
   stackoverflow: "6886345/kim"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
@@ -163,6 +129,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginate_path: "/blog/page:num/"
 
 kramdown:
   input: GFM

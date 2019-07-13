@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Bayesian Analysis with rstan, rstanarm, and brms'
 ---
 I have given a public talk at the LA East R Users meetup on July 8, 2019, at the USC Health Campus. [The slides on the meetup GitHub are here.](https://github.com/laRusers/presentations/raw/master/2019-07-08_stan/larusers-kim.pdf)

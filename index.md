@@ -11,3 +11,5 @@ use-site-title: true
 </div>
 
 Welcome! I am a Ph.D. candidate in Social Sciences at California Institute of Technology with research interests in American Politics and Political Methodology. More specifically, I focus on political behavior such as voter turnout and campaign contributions, working with large voter registration datasets and Federal Election Commission datasets. I mainly use R and Stan to employ tools such as probabilistic record linkage, semiparametric regression, and Bayesian statistics.
+
+I will start my new position as an Assistant Professor in the The Department of Government at American University, starting August 2020. 
